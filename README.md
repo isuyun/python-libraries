@@ -19,7 +19,7 @@ app.MainLoop()
 
 https://pyyaml.org
 
-一个跨平台的GUI库。
+一个YAML框架。
 
 ```python
 import yaml
@@ -32,4 +32,18 @@ document = '''
 data = yaml.load(document)
 print(data['name'])
 print(data['age'])
+```
+
+## 3. NumPy
+
+http://www.numpy.org
+
+一个科学计算基础包。
+
+```python
+import numpy as np
+
+a = np.arange(15).reshape(3, 5)
+print(a)
+print(a * 3)
 ```
