@@ -2,7 +2,7 @@
 
 ## 1. wxPython
 
-https://wxpython.org/
+https://wxpython.org
 
 一个跨平台的GUI库。
 
@@ -17,7 +17,7 @@ app.MainLoop()
 
 ## 2. PyYAML
 
-https://pyyaml.org/
+https://pyyaml.org
 
 一个跨平台的GUI库。
 
