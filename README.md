@@ -47,3 +47,16 @@ a = np.arange(15).reshape(3, 5)
 print(a)
 print(a * 3)
 ```
+
+## 4. Pillow
+
+https://python-pillow.org
+
+一个PIL的分支。
+
+## 5. OpenCV
+
+https://opencv.org
+
+一个计算机视觉库。
+
