@@ -2,7 +2,7 @@
 
 ## 1. wxPython
 
-https://wxpython.org
+<https://wxpython.org>
 
 一个跨平台的GUI库。
 
@@ -17,7 +17,7 @@ app.MainLoop()
 
 ## 2. PyYAML
 
-https://pyyaml.org
+<https://pyyaml.org>
 
 一个YAML框架。
 
@@ -36,7 +36,7 @@ print(data['age'])
 
 ## 3. NumPy
 
-http://www.numpy.org
+<http://www.numpy.org>
 
 一个科学计算基础包。
 
@@ -50,13 +50,13 @@ print(a * 3)
 
 ## 4. Pillow
 
-https://python-pillow.org
+<https://python-pillow.org>
 
 一个PIL的分支。
 
 ## 5. OpenCV
 
-https://opencv.org
+<https://opencv.org>
 
 一个计算机视觉库。
 
